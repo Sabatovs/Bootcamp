@@ -108,8 +108,8 @@
 
 <section id="contato">
     <h2>Contato</h2>
-    <p>Email: seuemail@email.com</p>
-    <p>LinkedIn: linkedin.com/in/seuusuario</p>
+    <p>Email: nestorbrpro@email.com</p>
+    <p>LinkedIn: https://www.linkedin.com/in/nestor-assunção-33aa53401/</p>
 </section>
 
 <footer>
