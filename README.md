@@ -1,16 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Meu Portfólio</title>
-</head>
-<body>
-    <h1>Meu Portfólio</h1>
-    <p>Olá, meu nome é Nestor 👋</p>
+# Calculadora Python
 
-    <h2>Projetos</h2>
-    <ul>
-        <li>Calculadora em Python</li>
-        <li>Site HTML simples</li>
-    </ul>
-</body>
-</html>
+## Descrição
+Projeto simples de calculadora.
+
+## Funcionalidades
+- Soma
+- Subtração
+
+## Como usar
+Execute o arquivo .py
